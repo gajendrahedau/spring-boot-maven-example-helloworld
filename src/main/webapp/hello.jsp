@@ -6,8 +6,8 @@
     <title>Hello</title>
 </head>
 <body>
-    Hello ${name}
+    Hello
     </br>
-    ${message}
+    Gajendra
 </body>
 </html>
